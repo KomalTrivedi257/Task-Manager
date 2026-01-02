@@ -118,9 +118,9 @@ Create a .env file inside the backend folder:
 
 PORT=5000 
 
-MONGO_URI=mongodb://127.0.0.1:27017/knitfinance  
+JWT_SECRET=your_jwt_secret_here
 
-JWT_SECRET=knitfinance_secret_key  
+MONGO_URI=your_mongo_uri_here
 
 ---
 📡 API Information  
