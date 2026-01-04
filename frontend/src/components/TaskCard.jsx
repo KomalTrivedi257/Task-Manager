@@ -1,35 +1,3 @@
-// import { Card, CardContent, Typography, IconButton, Box } from "@mui/material";
-// import DeleteIcon from "@mui/icons-material/Delete";
-// import EditIcon from "@mui/icons-material/Edit";
-
-// const TaskCard = ({ task, onDelete, onEdit }) => {
-//   return (
-//     <Card sx={{ mb: 2 }}>
-//       <CardContent>
-//         <Box display="flex" justifyContent="space-between" alignItems="center">
-//           <Box>
-//             <Typography variant="h6">{task.title}</Typography>
-//             <Typography variant="body2">{task.description}</Typography>
-//           </Box>
-//           <Box>
-//             <IconButton color="primary" onClick={() => onEdit(task)}>
-//               <EditIcon />
-//             </IconButton>
-//             <IconButton color="error" onClick={() => onDelete(task._id)}>
-//               <DeleteIcon />
-//             </IconButton>
-//           </Box>
-//         </Box>
-//       </CardContent>
-//     </Card>
-//   );
-// };
-
-// export default TaskCard;
-
-
-
-
 import {
   Card,
   CardContent,
