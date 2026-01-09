@@ -36,7 +36,7 @@ const Navbar = () => {
           }}
           onClick={() => navigate("/dashboard")}
         >
-          Knit Finance
+         Taskify
         </Typography>
 
         {/* RIGHT PROFILE + LOGOUT */}
